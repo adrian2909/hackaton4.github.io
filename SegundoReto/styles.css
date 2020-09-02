@@ -61,7 +61,7 @@ a:hover {
     background-color:lightgray;
 }
 
-}
+
 .container1 h1{
     color: white;
     
@@ -218,6 +218,7 @@ a:hover {
 .container4{
     background: salmon;
     margin-top: -100px;
+    width: 1350px;
     
     
 }
@@ -228,6 +229,7 @@ a:hover {
 }
 .container5{
     background:skyblue;
+    width: 1350px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -304,4 +306,5 @@ a:hover {
 .container8{
     background: salmon;
     text-align: center;
+    width: 1350px;
 }
